@@ -96,7 +96,7 @@ A view of monthly sales, quarterly profit by segment, and profit margins across 
 
 # Repository Contents
 
-global_sales_profitability_dashboard/
+    global_sales_profitability_dashboard/
 ├── README.md
 ├── screenshots/
 │   ├── overall_performance.png
